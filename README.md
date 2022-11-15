@@ -95,10 +95,10 @@ for i in range(1, n + 1):
 plt.show()
 ```
 ## OUTPUT
-![OUTPUT-01](IMG-01.PMG)
+![OUTPUT-01](IMG-01.PNG)
 
 ## Original vs Noisy Vs Reconstructed Image
-![OUTPUT-02](IMG-02.PMG)
+![OUTPUT-02](IMG-02.PNG)
 
 
 # RESULT
